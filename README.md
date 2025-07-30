@@ -5,10 +5,10 @@ This project provides a comprehensive analysis of India's import and export data
 
 
 ⚙️ Tools/technologies used:
-       Python: Pandas, NumPy, SQLite3
-       Database: SQLite
-       Business Intelligence: Microsoft Power BI
-       Version Control: Git, GitHub
+Python: Pandas, NumPy, SQLite3
+Database: SQLite
+Business Intelligence: Microsoft Power BI
+Version Control: Git, GitHub
 🪜STEP 1:
 
 Data Cleaning and Preprocessing (Python - Pandas/NumPy):
